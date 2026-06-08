@@ -1,0 +1,28 @@
+.first {
+    background-color: red;
+    width: 100px;
+    height: 100px;
+    line-height: 100px;
+    text-align: center;
+}
+.second {
+    background-color: #FFCC00;
+    width: 100px;
+    height: 100px;
+    line-height: 100px;
+    text-align: center;
+}
+.three {
+    background-color: #008000;
+    width: 100px;
+    height: 100px;
+    line-height: 100px;
+    text-align: center;
+}
+
+p {
+    color: white;
+    font-weight: 700;
+    font-size: 16px;
+    
+}
