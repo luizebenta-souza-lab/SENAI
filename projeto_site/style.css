@@ -1,0 +1,33 @@
+body {
+    background-color: black;
+}
+
+.fists {
+    color: blue;
+    font-weight: bold;
+}
+
+.second {
+    color: aqua;
+    font-weight: bold;
+}
+
+.three {
+    color: aqua;
+    font-weight: bold;
+}
+
+.four {
+    color: deeppink;
+    font-weight: bold;
+}
+
+.five {
+    color: yellow;
+    font-weight: bold;
+}
+
+.six {
+    color: #8E8E8E;
+    font-weight: normal;
+}
