@@ -1,0 +1,22 @@
+body{
+    background-color: blue;
+}
+ h1{
+    text-align: center;
+    margin: 50x 20px 0px;
+    color: white;
+ }
+ 
+ .album{
+    background-image: url(./asstes/e5988129e9f43265e849d712f6e5cd67\ 1.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 550px;
+    margin:0 auto;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    gap: 20px;
+    justify-content: center;
+    padding: 20px 0px;
+ }
