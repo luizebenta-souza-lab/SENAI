@@ -1,7 +1,6 @@
 
- let nome = "Lucas"
+ let nome = "luiz"
  const idade = "15"
  let cidade = 
- //nigger//
-console.log(nome, ano);
+console.log(nome, ano,);
  
