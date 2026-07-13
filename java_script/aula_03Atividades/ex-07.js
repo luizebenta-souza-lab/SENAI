@@ -1,11 +1,10 @@
 let animais = ["gato", "cachorro"];
 
-animais.push("pássaro");
-animais.push("peixe");
+animais.unshift("leão");
 
 console.log(animais);
 
-let removido = animais.pop();
+let removido = animais.shift();
 
 console.log(removido);
 console.log(animais);
